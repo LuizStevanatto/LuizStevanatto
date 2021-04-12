@@ -1,9 +1,9 @@
-<h2> Olá! Eu sou Luiz Stevanatto <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Olá! Eu sou Luiz Stevanatto. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas
-- 💼 &nbsp; Back-end developer
+- 🎓 &nbsp;  Cursando Analise e Desenvolvimento de Sistemas.
+- 💼 &nbsp; Back-end developer.
 - 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
