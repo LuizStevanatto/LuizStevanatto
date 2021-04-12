@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🔭 &nbsp; Atualemnte estudando Java e Node
+- 🔭 &nbsp; Atualmente estudando Java e Node
 - 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas
 - 💼 &nbsp; Back-end developer
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
@@ -30,7 +30,7 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/luiz-stevanatto-neto-882899193/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:luizstevanatto@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
-&nbsp; <a href="https://www.instagram.com/luiz_stevanatto/" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1618255001~hmac=e59f8768f1ce5248fef4572f371d486a" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/luiz_stevanatto/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
 
