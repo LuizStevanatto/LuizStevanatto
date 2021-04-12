@@ -1,4 +1,4 @@
-<h2> Olá! Eu sou Luiz Stevanatto. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Olá! Eu sou Luiz Stevanatto <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
