@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas
 - 💼 &nbsp; Back-end developer
-- 🌱 &nbsp; Entusiasta em tecnologia como um todo.
+- 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
