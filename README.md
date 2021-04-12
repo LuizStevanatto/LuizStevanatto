@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🔭 &nbsp; Atualemnte estudando Java e Node
+- 🔭 &nbsp; Atualmente estudando Java e Node
 - 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas
 - 💼 &nbsp; Back-end developer
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
