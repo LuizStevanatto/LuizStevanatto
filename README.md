@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
 - 🛢  &nbsp;  MySQL | MongoDB | Postegres | SQL Server 
-- 🔧 &nbsp; Visual Studio Code | Intellij | PyCharm | Visual Studio | Git
+- 🔧 &nbsp; Visual Studio Code | Intellij | Visual Studio | Git
 
 <br>
 
