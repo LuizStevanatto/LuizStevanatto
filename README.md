@@ -11,7 +11,7 @@
 <h3>🛠 Skills</h3>
 
 - 💻 &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
-- 🛢  &nbsp;  MySQL | MongoDB | Postegres | SQL Server 
+- 🛢  &nbsp; MongoDB | Postegres | SQL Server 
 - 🔧 &nbsp; Visual Studio Code | Intellij | Visual Studio | Git
 
 <br>
