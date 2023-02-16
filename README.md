@@ -3,14 +3,14 @@
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
 - 🎓 &nbsp;  Cursando Analise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Back-end developer.
+- 💼 &nbsp; Full-Stack developer.
 - 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
 <h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
+- 💻 &nbsp; Node | NestJs | React | Python | JavaScript | C | C#
 - 🛢  &nbsp;  MongoDB | Postegres | SQL Server 
 - 🔧 &nbsp; Visual Studio Code | Intellij | Visual Studio | Git
 
