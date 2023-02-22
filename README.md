@@ -2,7 +2,8 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🎓 &nbsp;  Cursando Analise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp;  Cursando Pós-Graduação em Arquitetura de Software Distribuído.
+- 🎓 &nbsp;  Formado em Analise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Full-Stack developer.
 - 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
@@ -10,9 +11,9 @@
 
 <h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Node | NestJs | React | Python | JavaScript | C | C#
-- 🛢  &nbsp;  MongoDB | Postegres | SQL Server 
-- 🔧 &nbsp; Visual Studio Code | Intellij | Visual Studio | Git
+- 💻 &nbsp; Node | NestJs | React | JavaScript | Python | C | C#
+- 🛢  &nbsp;  MongoDB | Postegres | SQL Server | MySQL
+- 🔧 &nbsp; Visual Studio Code | Intellij | Visual Studio | Git | Docker
 
 <br>
 
