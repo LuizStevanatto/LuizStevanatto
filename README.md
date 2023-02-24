@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
 - 🎓 &nbsp;  Cursando Pós-Graduação em Arquitetura de Software Distribuído.
-- 🎓 &nbsp;  Formado em Analise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp;  Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Full-Stack developer.
 - 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
