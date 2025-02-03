@@ -2,8 +2,8 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🎓 &nbsp;  Cursando Pós-Graduação em Arquitetura de Software Distribuído.
-- 🎓 &nbsp;  Formado em Análise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Pós-graduado em Arquitetura de Software Distribuído.
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Full-Stack developer.
 - 🌱 &nbsp; Apaixonado em tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
